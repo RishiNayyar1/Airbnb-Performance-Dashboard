@@ -55,3 +55,6 @@ Listing Growth Trends
 # Outcome
 
 The dashboard enables users to explore Airbnb performance metrics interactively and uncover trends that support data-driven decision-making through advanced analytics and visualization techniques.
+
+# dataset source
+https://mavenanalytics.io/data-playground/airbnb-listings-reviews
